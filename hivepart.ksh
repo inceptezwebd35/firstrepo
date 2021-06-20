@@ -1,4 +1,5 @@
 set -x
+#edited the code in the git url
 #!/bin/bash
 #Script to create hive partition load
 #bash hivepart.ksh /home/hduser/hivepart retail.txnrecsbycatdtreg
