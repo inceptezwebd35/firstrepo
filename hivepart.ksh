@@ -3,6 +3,7 @@ set -x
 #uncommented the copy statement
 #!/bin/bash
 #Script to create hive partition load
+#code is ready for review
 #bash hivepart.ksh /home/hduser/hivepart retail.txnrecsbycatdtreg
 
 echo "$0 is starting"
